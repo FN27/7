@@ -33,4 +33,4 @@ pril=['мудрый ','крутой ','дерзкий ','счастливый ',
 anymal=['орёл','бобёр','заяц','волк','суслик','бык','ястреб']
 f_name=random.choice(pril)
 s_name=random.choice(anymal)
-print(f'в племяни индейцев тебя бы звали     {f_name} {s_name}')
+print(f'в племяни индейцев тебя бы звали       {f_name} {s_name}')
